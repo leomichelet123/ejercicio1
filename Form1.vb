@@ -7,7 +7,7 @@
             'verdadero
             lblmostrar.Text = "el mayor es: " & dato1
             'falso
-        Else lblmostrar.Text = "el mayor es: " & dato2
+        Else lblmostrar.Text = "el mayor es el : " & dato2
 
 
         End If
