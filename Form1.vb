@@ -8,6 +8,8 @@
             lblmostrar.Text = "el mayor es: " & dato1
             'falso
         Else lblmostrar.Text = "el mayor es: " & dato2
+
+
         End If
 
     End Sub
